@@ -1,0 +1,1 @@
+.flex-container{display:flex}.flex-child{flex:1;justify-content:space-around;flex-wrap:nowrap;align-items:stretch;flex-direction:row}.flex-child:first-child{flex-grow:3;width:100%;max-width:250px}
